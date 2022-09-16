@@ -1,9 +1,7 @@
-def firstWords (
+def firstWords():
   return 
     Print("hello word")
-)
 
 
-def Main (
+def Main():
   firstWords()
-)
